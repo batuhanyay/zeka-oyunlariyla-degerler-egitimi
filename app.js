@@ -1,5 +1,5 @@
 // ===== YAPILANDIRMA =====
-const TOTAL_PAGES = 20;                     // ← PNG sayfa sayısı
+const TOTAL_PAGES = 28;                     // ← PNG sayfa sayısı
 const IMG_DIR = "img";                      // görsellerin klasörü
 const NAME = (i) => `p-${String(i).padStart(2,"0")}.png`; // p-01.png
 // ========================
